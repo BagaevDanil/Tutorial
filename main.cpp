@@ -8,4 +8,6 @@ int main()
     cout << "Virtual Ubuntu)\n";
     return 0;
     int a = 43;
+
+    int b = 12;
 }
